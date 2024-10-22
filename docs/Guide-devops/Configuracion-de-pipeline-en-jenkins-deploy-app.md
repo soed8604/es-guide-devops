@@ -7,7 +7,7 @@ description: Pasos para configurar un pipeline en Jenkins para el despliegue de 
 # Crear un pipeline en jenkins para desplegar una aplicación en un cluster de EKS
 
 :::important 
-En esta fase, crearemos un pipeline que automatizará el despliegue de una aplicación en un cluster de EKS
+En esta fase, crearemos un pipeline que automatizará el despliegue de una aplicación en un cluster de EKS y los archivos de nuestra aplicación se encuentran en el directorio `03-k8s-teslo`.
 :::
 
 ## Paso 1: Crear un job
